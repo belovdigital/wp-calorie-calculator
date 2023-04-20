@@ -20,7 +20,7 @@ BMR, or basal metabolic rate, is one of the most widely used parameters for defi
 Our Calorie Calculator for WordPress gives you the shortcode for your website’s page, post, or sidebar. Put it anywhere it suits the most to catch the attention of your visitors!
 
 ## WEIGHT, HEIGHTS, GOALS: THE CALCULATOR ACCOUNTS FOR EVERYTHING
-Once you have installed the plugin, you get a neatly designed Calculator settings section in your WordPress admin area. There are a few tabs where you can configure input fields for age, body mass, and height, gender selector, and measure units toggle. Other parameters are configurable in the Pro edition of WP Calorie Caluclator (UPD: V4 is out!). Among those, there are lifestyle for which users tick the one that fits them best and body mass goals with the dropdown menu offering weight maintenance, loss, or gain (and the pace of the process).
+Once you have installed the plugin, you get a neatly designed Calculator settings section in your WordPress admin area. There are a few tabs where you can configure input fields for age, body mass, and height, gender selector, and measure units toggle. Other parameters are configurable in the [Pro edition of WP Calorie Caluclator](https://wpcaloriecalculator.com/) (UPD: V4 is out!). Among those, there are lifestyle for which users tick the one that fits them best and body mass goals with the dropdown menu offering weight maintenance, loss, or gain (and the pace of the process).
 
 ## UNITS & AUTO CONVERSION
 WP Calorie Calculator works with metric and imperial units to ensure convenience for everyone. And should users forget to switch units, the plugin will convert everything automatically with a click of the toggle. No need to rack your brain over retyping and converting.
